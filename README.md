@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @starrylight90
-- 👀 I’m interested in ...python, web development, app development and idea innovation
+- 👀 I’m interested in ...python, c, web development, app development and idea innovation
 - 🌱 I’m currently learning ...python, c
 - 💞️ I’m looking to collaborate on ...startup projects, idea collaborations
 - 📫 How to reach me ...LinkedIn (Swayam Pendgaonkar)
