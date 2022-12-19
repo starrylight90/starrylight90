@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Swayam Pendgaonkar (starrylight90)<br>I'm currently working on Machine Learning Projects.<br>I'm looking to collaborate on startup projects, idea collaborations<br>I'm looking for helping with neural networks and ML projects<br>I’m interested in python, c++, web development, app development and idea innovation<br>I’m currently learning python, Machine Learning<br>Ask me about my latest blog <br>Fun fact: I can solve a rubik's cube in under 1 minute
+Hey, I'm Swayam Pendgaonkar (starrylight90)<br>I'm currently working on Machine Learning Projects.<br>I'm looking to collaborate on startup projects, idea collaborations<br>I'm looking for helping with neural networks and ML projects<br>I’m interested in python, c++, web development, app development and idea innovation<br>I’m currently learning python, Machine Learning<br>Ask me: about my latest blog <br>Fun fact: I can solve a rubik's cube in under 1 minute
 
 
 ## 🌐 Socials:
