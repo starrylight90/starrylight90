@@ -1,5 +1,21 @@
 # 💫 About Me:
-Hey, I'm Swayam Pendgaonkar (starrylight90)<br>I'm currently working on Machine Learning Projects.<br>I'm looking to collaborate on startup projects, idea collaborations<br>I'm looking for helping with Neural Networks and ML projects<br>I’m interested in python, c++, web development, app development and idea innovation<br>I’m currently learning python, Machine Learning<br>Ask me: about my latest blog <br>Fun fact: I can solve a rubik's cube in under 1 minute
+Hey there, I'm Swayam Pendgaonkar, also known as starrylight90.
+
+🔭 Currently, I am working on Machine Learning Projects.
+
+🌱 My interests are varied, and I am interested in Python, C++, web development, app development and idea innovation. I am currently learning Python and Machine Learning.
+
+👯 I'm always looking for new opportunities to collaborate on startup projects and idea collaborations. I would also love to help others with Neural Networks and ML projects.
+
+📝 You can check out my latest blog, just ask me about it!
+
+💬 I am happy to share my knowledge and answer any questions you might have about Python, C++, web development, app development, idea innovation, Neural Networks and Machine Learning.
+
+📫 You can find me on <a href="https://www.linkedin.com/in/swayam-pendgaonkar-ab4087232/">Linkedin</a>, so feel free to get in touch!
+
+📄 If you want to know more about my experiences, you can check out my website or blog.
+
+⚡ A fun fact about me is that I can solve a Rubik's Cube in under 1 minute!
 
 
 ## 🌐 Socials:
