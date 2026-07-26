@@ -91,7 +91,7 @@ Software Engineer building production backend systems and cost-efficient LLM inf
 
 </div>
 
-<details>
+<details open>
 <summary>🏆 GitHub Trophies</summary>
 <br>
 
